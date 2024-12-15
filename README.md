@@ -11,6 +11,8 @@ The results was stored in the local storage to know the best player(mimimum step
 
 The computer will always show the name of the person who did the best score which is a mixture of (best time and minimum number of guesses).
 
+Live demo : https://prakash778.github.io/guessing_the-_number_game/
+
 ![1](https://github.com/user-attachments/assets/6ddfd64e-d73a-49cf-8295-502b91922c8f)
 
 
