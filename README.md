@@ -14,3 +14,10 @@ The computer will always show the name of the person who did the best score whic
 ![1](https://github.com/user-attachments/assets/6ddfd64e-d73a-49cf-8295-502b91922c8f)
 
 
+![2](https://github.com/user-attachments/assets/82f118c5-7902-471b-8c24-53768c55bc1d)
+
+
+![4](https://github.com/user-attachments/assets/e39403b6-b2fe-4de9-8587-ff61f92077f5)
+
+![3](https://github.com/user-attachments/assets/0dac03ac-5f3d-4336-a071-45731fd1f6c5)
+
